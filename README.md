@@ -120,3 +120,5 @@ Combining these data streams with machine learning models could enable more accu
 
 This study demonstrates the potential of Personal Health Informatics systems to leverage behavioral and workplace data for predicting depression outcomes. Machine learning models were able to identify significant predictors related to mental health risk, highlighting the importance of both personal and environmental factors.
 The findings support the integration of predictive analytics within digital health platforms to improve early detection and intervention for mental health disorders. As personal health technologies continue to evolve, PHI systems will play an increasingly important role in supporting proactive mental health care and improving population health outcomes.
+
+Link:- https://github.com/Badejo062/personal-health-informatics-research
