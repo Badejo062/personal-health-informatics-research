@@ -1,4 +1,4 @@
-**Researcher name :- Tope Badejo**
+**Name :- Tope Badejo**
 
 **Predicting Depression Outcomes Using Personal Health Informatics Data
 Abstract**
